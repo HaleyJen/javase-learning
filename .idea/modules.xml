@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a01-foundation/a01-foundation.iml" filepath="$PROJECT_DIR$/a01-foundation/a01-foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a02-calss-object/a02-calss-object.iml" filepath="$PROJECT_DIR$/a02-calss-object/a02-calss-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a03-list/a03-list.iml" filepath="$PROJECT_DIR$/a03-list/a03-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a04-iostream/a04-iostream.iml" filepath="$PROJECT_DIR$/a04-iostream/a04-iostream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a05-thread/a05-thread.iml" filepath="$PROJECT_DIR$/a05-thread/a05-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a06-network/a06-network.iml" filepath="$PROJECT_DIR$/a06-network/a06-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/a07-reflection-dynamicproxy/a07-reflection-dynamicproxy.iml" filepath="$PROJECT_DIR$/a07-reflection-dynamicproxy/a07-reflection-dynamicproxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+    </modules>
+  </component>
+</project>
