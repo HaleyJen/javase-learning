@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/a06-network/a06-network.iml" filepath="$PROJECT_DIR$/a06-network/a06-network.iml" />
       <module fileurl="file://$PROJECT_DIR$/a07-reflection-dynamicproxy/a07-reflection-dynamicproxy.iml" filepath="$PROJECT_DIR$/a07-reflection-dynamicproxy/a07-reflection-dynamicproxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-student-manager-system/project-student-manager-system.iml" filepath="$PROJECT_DIR$/project-student-manager-system/project-student-manager-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
